@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yinmin Zhong
+title: WUTONK
 
 # Full name (for SEO)
-first_name: Yinmin
-last_name: Zhong
+first_name: TONG
+last_name: WU
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,47 +14,50 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peking University
-    url: https://english.pku.edu.cn/
-    email: zhongyinmin [at] pku.edu.cn
+  - name: Guangzhou Institute of Railway Technology
+    url: https://www.gtxy.cn/
+  - name: St. Chi College, Home University
+    url: https://hmu.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning systems and large language models.
+bio: 非常喜欢音乐，听的风格很杂很多（一般是一段时间突然就喜欢某种风格）从下方的表格就可见一斑…从电子-流行-古典均有涉及
 
 # Interests to show in About widget
 interests:
-  - Machine Learning Systems
-  - Distributed Systems
-  - Large Language Models
+  - 电器工程
+  - 实证软件工程
+  - 机器学习/人工智能
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science
-      institution: Peking University
-      year: Sep 2022 - Present
+    - course: PhD in Lie Flat
+      institution: Home University
+      year: 2023/12 - 2024/12
+    - course: MSc in Lie Flat
+      institution: Home University
+      year: 2023/11 - 2023/12
+    - course: BSc in Lie Flat
+      institution: Home University
+      year: 2023/10 - 2023/11
 
-    - course: B.S. in Computer Science
-      institution: Peking University
-      year: Sep 2018 - June 2022
-
-experience:
-  courses:
-    - course: Research Intern
-      institution: StepFun System Team
-      year: June 2024 - Present
+# experience:
+#   courses:
+#     - course: Research Intern
+#       institution: StepFun System Team
+#       year: June 2024 - Present
  
-    - course: Research Intern
-      institution: ByteDance AML Team
-      year: Aug 2023 - May 2024
+#     - course: Research Intern
+#       institution: ByteDance AML Team
+#       year: Aug 2023 - May 2024
     
-    - course: Research Intern
-      institution: Alibaba DAMO Academy
-      year: Sep 2021 - Sep 2022
+#     - course: Research Intern
+#       institution: Alibaba DAMO Academy
+#       year: Sep 2021 - Sep 2022
     
-    - course: Software Engineer Intern
-      institution: AI Innovation Center, Peking University
-      year: Sep 2020 - Mar 2021
+#     - course: Software Engineer Intern
+#       institution: AI Innovation Center, Peking University
+#       year: Sep 2020 - Mar 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,36 +66,31 @@ experience:
 social:
   - icon:  google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=UUM_zLwAAAAJ&hl=zh-CN&oi=ao
+    link: https://scholar.google.com/scholar?q=WUTONK
   - icon: github
     icon_pack: fab
-    link: https://github.com/PKUFlyingPig
+    link: https://github.com/WUTONK
     label: Follow me on Github
     display:
       header: true
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:zhongyinmin@pku.edu.cn"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/YinminZhong
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/Resume.pdf
+    link: https://twitter.com/WUTONK386
+  - icon: academicons/orcid
+    url: https://orcid.org/orcid-search/search?searchQuery=WUTONK
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-<h1> About Me </h1>
-I am a third-year Ph.D. student studying computer science in the <a href=https://github.com/pkusys> Computer Systems Research Group </a> at Peking University where I am advised by <a href=https://xinjin.github.io> Xin Jin</a>. Before that, I received my B.S. in Computer Science from Peking University.
+<h1> 关于我 </h1>
 
-I have a broad interest in building efficient systems for training and serving deep learning models, with a primary focus on large language models (LLMs) currently.
+非常喜欢音乐，听的风格很杂很多（一般是一段时间突然就喜欢某种风格）从下方的表格就可见一斑…从电子-流行-古典均有涉及
 
-I am also an enthusiastic self-learner and interested in various fields of computer science. I have built [a website](https://csdiy.wiki) to share my self-learning experiences and resources. 
+心情不好的时候会听后摇和金属，晚上睡觉喜欢听合成器和纯音乐催眠。
+
+非常喜欢开车所以在家里配了一套赛车模拟器，跑的最多的是首都高，喜欢一边跑一边听phonk,trance和citypop
+
+因为喜欢用金属和phonk提神还形成了一听金属就想睡的奇怪反射
+
+一直想学编曲，但是花了2500买了电子琴和MIDI键盘后就吃灰了
